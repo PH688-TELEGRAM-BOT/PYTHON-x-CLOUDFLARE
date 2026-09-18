@@ -1,0 +1,5 @@
+other = "Bump anyio from 4.12.1 to 4.14.2"
+[[pull_requests]]
+uid = "4"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
