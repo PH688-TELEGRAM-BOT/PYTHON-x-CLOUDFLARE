@@ -1,0 +1,5 @@
+other = "Bump soupsieve from 2.8.4 to 2.9"
+[[pull_requests]]
+uid = "3"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
