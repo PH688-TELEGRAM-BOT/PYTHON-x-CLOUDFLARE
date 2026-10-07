@@ -1,0 +1,5 @@
+other = "Bump tornado from 6.5.7 to 6.5.9"
+[[pull_requests]]
+uid = "6"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
