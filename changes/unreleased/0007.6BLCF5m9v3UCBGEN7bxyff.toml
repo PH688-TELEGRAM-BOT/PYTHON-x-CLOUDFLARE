@@ -1,0 +1,5 @@
+other = "Bump pylint from 4.0.7 to 4.0.9"
+[[pull_requests]]
+uid = "7"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
