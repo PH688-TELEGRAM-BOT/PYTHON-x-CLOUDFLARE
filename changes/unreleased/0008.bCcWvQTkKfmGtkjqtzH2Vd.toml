@@ -1,0 +1,5 @@
+other = "Bump certifi from 2026.2.25 to 2026.10.18"
+[[pull_requests]]
+uid = "8"
+author_uids = ["dependabot[bot]"]
+closes_threads = []
